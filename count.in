@@ -1,0 +1,4 @@
+count c sample.txt
+count w sample.txt
+count l sample.txt
+exit
